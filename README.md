@@ -1,2 +1,2 @@
 ## 심플 웹 브라우저
-<img src="https://i.imgur.com/PxjdguS.png" width="400"/>
+![68747470733a2f2f692e696d6775722e636f6d2f50786a646775532e706e67](https://user-images.githubusercontent.com/98893006/235085081-5a5244da-18a2-492b-ae76-f17836b0c72b.png)
